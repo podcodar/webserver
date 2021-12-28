@@ -1,0 +1,8 @@
+{
+  "imports": {
+    "#": "./",
+    "oak": "https://deno.land/x/oak/mod.ts",
+    "fmt/": "https://deno.land/std@0.119.0/fmt/",
+    "logging": "https://deno.land/std@0.119.0/log/mod.ts"
+  }
+}

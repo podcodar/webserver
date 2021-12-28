@@ -1,0 +1,11 @@
+scripts:
+  start:
+    desc: Start server
+    cmd: src/server.ts
+    imap: ./imports.json
+    unstable: true
+    allow:
+      all: true
+  fmt:
+    desc: Format code
+    cmd: deno fmt
